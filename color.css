@@ -1,0 +1,18 @@
+body{
+    background-color:aqua;
+}
+h1 {
+    background-color: aqua;
+    color: blue;
+    
+}
+h1 i{
+    background-color: gray;
+    color: black;
+}
+
+p{
+    background-color:white ;
+    color:black;
+  
+}
